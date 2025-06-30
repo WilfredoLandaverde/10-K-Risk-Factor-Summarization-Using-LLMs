@@ -1,6 +1,6 @@
 # 🔍📄 10-K Risk Factor Summarization with LLMs 🤖
 
-![Problem][(Images/Image1.png)](https://github.com/WilfredoLandaverde/10-K-Risk-Factor-Summarization-Using-LLMs/blob/bc20194c98e3f2fd67d279c1c06408502feaea7c/Images/Image1.png)
+![Problem](https://github.com/WilfredoLandaverde/10-K-Risk-Factor-Summarization-Using-LLMs/blob/bc20194c98e3f2fd67d279c1c06408502feaea7c/Images/Image1.png)
 
 The “Risk Factors” section of a 10-K report often spans over 20 pages, detailing the challenges and uncertainties a company faces. The length and complexity of this section make it time consuming to analyze and difficult to compare across companies.
 
